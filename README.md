@@ -28,9 +28,9 @@ The video is also available at: https://www.youtube.com/watch?v=WqbGBtzQJUc
 ## Prerequisites
 
 *   The **[Android Studio](https://developer.android.com/studio/index.html)**
-    IDE. This sample has been tested on Android Studio Bumblebee.
-
-*   A physical Android device with a minimum OS version of SDK 24 (Android 7.0 -
+    IDE. This code was developed and tested on Android Studio Flagmingo.
+    
+*   A physical Android device with a minimum OS version of SDK 30 (Android 7.0 -
     Nougat) with developer mode enabled. The process of enabling developer mode
     may vary by device. This device will also need to have the latest version of
     Google Play Services installed.
